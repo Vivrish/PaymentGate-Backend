@@ -52,5 +52,11 @@ DTO
 Unit/Integration/E2E tests
 
 
+<img width="1280" alt="Screenshot 2024-02-03 at 22 52 41" src="https://github.com/Vivrish/PaymentGate-Backend/assets/64595636/8d74611d-6395-4497-aaf0-4f19d27f4910">
+
+<img width="1280" alt="Screenshot 2024-02-03 at 22 52 33" src="https://github.com/Vivrish/PaymentGate-Backend/assets/64595636/2583a0e5-123c-44d6-8cac-b196274e8a92">
+
+<img width="1280" alt="Screenshot 2024-02-03 at 22 52 07" src="https://github.com/Vivrish/PaymentGate-Backend/assets/64595636/e68d0394-082e-4f05-a274-3d94a399a995">
+
 
 
